@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{896A5FA0-9B0D-4010-B0E6-2B05EA30D56E}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HotelProject" selected="True">
+            <Node name="ApiConsume" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ApiConsume.HotelProject.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
