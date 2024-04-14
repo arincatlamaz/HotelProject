@@ -1,20 +1,37 @@
 ﻿<Properties StartupConfiguration="{896A5FA0-9B0D-4010-B0E6-2B05EA30D56E}|http">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiConsume/HotelProject.DataAccessLayer/Abstract/ITestimonialDal.cs">
+    <Files>
+      <File FileName="ApiConsume/HotelProject.DataAccessLayer/Abstract/IGenericDal.cs" Line="6" Column="26" />
+      <File FileName="ApiConsume/HotelProject.DataAccessLayer/Abstract/IRoomDal.cs" Line="6" Column="2" />
+      <File FileName="ApiConsume/HotelProject.DataAccessLayer/Abstract/IServicesDal.cs" Line="7" Column="40" />
+      <File FileName="ApiConsume/HotelProject.DataAccessLayer/Abstract/IStaffDal.cs" Line="5" Column="2" />
+      <File FileName="ApiConsume/HotelProject.DataAccessLayer/Abstract/ISubscribeDal.cs" Line="6" Column="57" />
+      <File FileName="ApiConsume/HotelProject.DataAccessLayer/Abstract/ITestimonialDal.cs" Line="7" Column="6" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HotelProject" selected="True">
-            <Node name="ApiConsume" expanded="True" />
+          <Node name="HotelProject" expanded="True">
+            <Node name="ApiConsume" expanded="True">
+              <Node name="HotelProject.DataAccessLayer">
+                <Node name="Abstract" expanded="True">
+                  <Node name="ITestimonialDal.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="HotelProject.EntityLayer" expanded="True">
+                <Node name="Concrete" expanded="True" />
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ApiConsume.HotelProject.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

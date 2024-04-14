@@ -23,8 +23,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Concrete\" />
+    <None Remove="Abstract\" />
+    <None Remove="Repositories\" />
+    <None Remove="EntityFramework\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Concrete\" />
+    <Folder Include="Abstract\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="EntityFramework\" />
   </ItemGroup>
 </Project>
